@@ -1,5 +1,5 @@
 ### Source/Study Design:
-The following script uses data on Human Activity Recognition using Smartphones from the UCI Machine Learning Repository. The data set is downloaded here: 
+The following script uses data on Human Activity Recognition using Smartphones from the UCI Machine Learning Repository. A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The UCI Center for Machine Learning and Intelligent Systems has a Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
@@ -7,7 +7,6 @@ The UCI Center for Machine Learning and Intelligent Systems has a Human Activity
 The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, they captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The dataset is partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data.  
 
 Each record in the dataset provides the following:
-======================================
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
 - A 561-feature vector with time and frequency domain variables. 
