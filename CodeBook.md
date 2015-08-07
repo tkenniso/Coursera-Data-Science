@@ -1,6 +1,6 @@
 # Code Book
 
-**Source**: UCI Machine Learning Repository
+**Source**: UCI Machine Learning Repository 
 A full description of the source data is available at the site where the data was obtained (though much of it is covered here): 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
